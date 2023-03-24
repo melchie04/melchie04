@@ -188,32 +188,3 @@
   </div>
   <br />
 </div>
-<table>
-  <tr>
-    <td>
-      <img
-        width="100%"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=melchie04&show_icons=true&locale=en&layout=compact"
-        alt="melchie04"
-      />
-    </td>
-    <td>
-      <img
-        width="100%"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=melchie04&show_icons=true&locale=en"
-        alt="melchie04"
-      />
-    </td>
-    <td>
-      <img
-        width="100%"
-        align="center"
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=melchie04&"
-        alt="melchie04"
-      />
-    </td>
-  </tr>
-</table>
