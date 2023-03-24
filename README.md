@@ -1,11 +1,4 @@
-<div
-  style="
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    border: 2px solid black;
-  "
->
+<div>
   <img
     width="100%"
     align="center"
@@ -19,28 +12,28 @@
     alt="melchie04"
   />
 </p>
-<h1 align="center" style="margin: 0">Hi, I am Melchor Callos</h1>
-<div style="margin: 0; width: 100%; display: flex; justify-content: center">
+<h1 align="center">Hi, I am Melchor Callos</h1>
+<div>
   <img
     align="right"
     alt="Coding"
-    width="250"
+    width="300"
     src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif"
   />
 </div>
-<div style="width: 70%; margin: auto">
-  <p align="left" style="font-weight: bold; padding-bottom: 1rem">
+<div>
+  <p align="left">
     I am passionate about becoming a professional website developer, which is
     why I am interested in learning new skills and expanding my expertise in the
     area of software development. I believe that staying up-to-date with the
     latest technologies and trends is essential to delivering high-quality
     websites.
   </p>
-  <p align="left" style="margin: 0">🌱 I am currently learning ReactJs</p>
-  <p align="left" style="margin: 0">
+  <p align="left">🌱 I am currently learning ReactJs</p>
+  <p align="left">
     📧 You can reach me here: melchorcallos04@gmail.com
   </p>
-  <p align="left" style="margin: 0">
+  <p align="left">
     😁 Here are some fun facts about me: When I was young, I wanted to have a
     business because I wanted money. Today, I just wanted to be lazy, but I
     still needed money. 😊
@@ -195,9 +188,9 @@
   </div>
   <br />
 </div>
-<table style="width: 70%; table-layout: fixed; margin: auto; margin-top: 1rem;">
+<table>
   <tr>
-    <td style="width: 33.33%">
+    <td>
       <img
         width="100%"
         align="center"
@@ -205,7 +198,7 @@
         alt="melchie04"
       />
     </td>
-    <td style="width: 33.33%">
+    <td>
       <img
         width="100%"
         align="center"
@@ -213,7 +206,7 @@
         alt="melchie04"
       />
     </td>
-    <td style="width: 33.33%">
+    <td>
       <img
         width="100%"
         align="center"
