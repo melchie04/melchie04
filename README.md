@@ -25,6 +25,8 @@
 <p align="left">
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/html5.png" alt="html5" width="40" height="40" />
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/css3.png" alt="css3" width="40" height="40" />
+  <img src="https://github.com/melchie04/melchie04/blob/main/logos/bootstrap.png" alt="bootstrap" width="40" height="40" />
+  <img src="https://github.com/melchie04/melchie04/blob/main/logos/materialui.png" alt="materialui" width="40" height="40" />
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/javascript.png" alt="javascript" width="40" height="40" />
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/react.png" alt="react" width="40" height="40" />
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/vite.png" alt="vite" width="40" height="40" />
