@@ -4,11 +4,7 @@
 <h1 align="center">Hi, I am Melchor Callos</h1>
 <img align="right" alt="Coding" width="300" src="https://github.com/melchie04/melchie04/blob/main/coding.gif"/>
 <p align="left">
-  I am passionate about becoming a professional website developer, which is
-  why I am interested in learning new skills and expanding my expertise in the
-  area of software development. I believe that staying up-to-date with the
-  latest technologies and trends is essential to delivering high-quality
-  websites.
+  I am passionate about becoming a professional software developer, which is why I am interested in learning new skills and expanding my expertise in the area of software development. I believe that staying up-to-date with the latest technologies and trends is essential to deliver high-quality websites.
 </p>
 
 <p align="left">🌱 I am currently learning ReactJs</p>
