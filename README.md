@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I am Melchor Callos</h1>
 <img align="right" alt="Coding" width="300" src="https://github.com/melchie04/melchie04/blob/main/coding.gif"/>
 <p align="left">
-  I am passionate about becoming a professional software developer, which is why I am interested in learning new skills and expanding my expertise in the area of software development. I believe that staying up-to-date with the latest technologies and trends is essential to deliver high-quality websites.
+  I am passionate about becoming a professional website developer, and I am determined to excel in this field by continuously improving my skills, adopting innovative practices, and expanding my expertise in the area of website development. Additionally, I bring valuable expertise as a skilled software tester, having gained significant experience in various testing domains such as functional testing, automation testing, unit testing, and white box testing. By combining my skills in software testing with my ambition to become a proficient website developer, I am confident that I can deliver high-quality solutions that meet the ever-evolving demands of the digital landscape.
 </p>
 
 <p align="left">🌱 I am currently learning ReactJs</p>
