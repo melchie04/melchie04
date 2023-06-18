@@ -31,11 +31,14 @@
 <h3 align="left">Back-End Web Development:</h3>
 <p align="left">
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/php.png" alt="php" width="40" height="40" />
+  <img src="https://github.com/melchie04/melchie04/blob/main/logos/node.png" alt="node" width="40" height="40" />
+  <img src="https://github.com/melchie04/melchie04/blob/main/logos/express.png" alt="express" width="40" height="40" />
 </p>
                                                                                                               
 <h3 align="left">Database:</h3>
 <p align="left">
   <img src="https://github.com/melchie04/melchie04/blob/main/logos/mysql.png" alt="mysql" width="40" height="40" />
+  <img src="https://github.com/melchie04/melchie04/blob/main/logos/mongodb.png" alt="mongodb" width="40" height="40" />
 </p>
                                                                                                                 
 <h3 align="left">Other Programming Languages:</h3>
