@@ -1,5 +1,4 @@
 ![Banner Image](https://github.com/melchie04/melchie04/blob/main/banner.jpg)
-![Profile Views](https://komarev.com/ghpvc/?username=melchie04&label=Profile%20Views&color=0e75b6&style=flat)
 
 # Hi, I am Melchor Callos
 I am passionate about becoming a professional website developer, and I am determined to excel in this field by continuously improving my skills, adopting innovative practices, and expanding my expertise in the area of website development. Additionally, I bring valuable expertise as a skilled software tester, having gained significant experience in various testing domains such as functional testing, automation testing, unit testing, and white box testing. By combining my skills in software testing with my ambition to become a proficient website developer, I am confident that I can deliver high-quality solutions that meet the ever-evolving demands of the digital landscape.
