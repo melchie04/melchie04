@@ -9,7 +9,7 @@ I work as a software tester specializing in automation testing, and I also have 
 
 ### You can find me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Melchor%20Callos-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/melchorcallos)
-[![Facebook](https://img.shields.io/badge/facebook-melchorcallos04-blue?style=flat-square&logo=facebook)](https://fb.com/melchorcallos04)
+[![Facebook](https://img.shields.io/badge/facebook-melchorcallos04-blue?style=flat-square&logo=facebook)](https://fb.com/melchorcallos)
 [![Email](https://img.shields.io/badge/Email-melchorcallos04%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:melchorcallos04@gmail.com)
 
 
