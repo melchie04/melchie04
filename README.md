@@ -1,7 +1,7 @@
 ![Banner Image](https://github.com/melchie04/melchie04/blob/main/banner.jpg)
 
-# Hi, I am Melchor Callos
-I work as a software tester specializing in automation testing, and I also have expertise in whitebox and functional testing. My passion for programming drives me to continually enhance my skills, and I find great fulfillment in developing websites. This not only allows me to improve my programming abilities but also brings a sense of accomplishment as I create functional and user-friendly web solutions.
+# Hi there! 👋 I'm Melchor Callos
+Welcome to my GitHub profile! I'm a passionate developer and experienced tester based in the Philippines, specializing in automation testing and website development. I also have expertise in whitebox and functional testing. My love for programming drives me to continually enhance my skills, and I find great fulfillment in developing websites. This not only allows me to improve my programming abilities but also brings a sense of accomplishment as I create functional and user-friendly web solutions.
 
 🌱 I am currently working with Selenium Java.
 
