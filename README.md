@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I am Melchor B. Callos, a passionate developer and
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Software Testing:
 ![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
