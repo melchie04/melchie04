@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I am Melchor B. Callos, a passionate developer and
 ![image](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=Appium&logoColor=white)
 ![image](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)
 ![image](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![image](https://img.shields.io/badge/playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### Web Development:
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +35,6 @@ Welcome to my GitHub profile! I am Melchor B. Callos, a passionate developer and
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### Database:
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
